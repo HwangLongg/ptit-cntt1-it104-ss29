@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Laptop Dell XPS 13",
+      "image": "https://via.placeholder.com/150",
+      "price": 1500,
+      "quantity": 10,
+      "created_at": "2025-09-15T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "product_name": "iPhone 15 Pro",
+      "image": "https://via.placeholder.com/150",
+      "price": 1200,
+      "quantity": 5,
+      "created_at": "2025-09-10T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "product_name": "Samsung Galaxy S25",
+      "image": "https://via.placeholder.com/150",
+      "price": 1000,
+      "quantity": 8,
+      "created_at": "2025-08-30T10:15:00Z"
+    },
+    {
+      "id": 4,
+      "product_name": "Tai nghe AirPods Pro 3",
+      "image": "https://via.placeholder.com/150",
+      "price": 300,
+      "quantity": 15,
+      "created_at": "2025-09-01T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "product_name": "Chuột Logitech MX Master 4",
+      "image": "https://via.placeholder.com/150",
+      "price": 120,
+      "quantity": 20,
+      "created_at": "2025-09-12T14:45:00Z"
+    }
+  ]
+}
